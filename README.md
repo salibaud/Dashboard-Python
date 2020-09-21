@@ -1,7 +1,7 @@
 # Dash
 ## Sitio creado para visualización de reportes
 
-### probado y montado en un servidor ubuntu.
+### Probado y montado en un servidor ubuntu.
 
 El sitio es una fusión de dos paquetes bastante buenos para python. Consiste en utilizar el paquete flask para la creación de reportes o dashboard, su utilidad se basa en que no se necesita pagar más que un servidor y una base de datos para empezar a usar (no requiere licencias). 
 
