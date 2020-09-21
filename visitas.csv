@@ -1,0 +1,14 @@
+usuario;pagina;visita;fecha
+admin;/detalles;1;2020-09-20
+seba1;/detalles;1;2020-09-20
+seba1;/leads;1;2020-09-20
+seba1;/logout;1;2020-09-20
+visita;/;1;2020-09-20
+admin;/leads;1;2020-09-20
+admin;/admin;1;2020-09-20
+admin;/logout;1;2020-09-20
+visita;/;1;2020-09-21
+admin;/leads;1;2020-09-21
+admin;/admin;1;2020-09-21
+admin;/detalles;1;2020-09-21
+admin;/leads;1;2020-09-21
