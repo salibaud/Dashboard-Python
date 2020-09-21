@@ -26,6 +26,9 @@ Al combinar estos dos paquetes se genera una visualizacion simple y directa.
 
 Entrada
 
+![alt text](https://github.com/salibaud/Dash/blob/master/assets/Entrada.PNG)
+
+
 
 Vista de dashboard
 
