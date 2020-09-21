@@ -1,9 +1,10 @@
 # Dash
 ## Sitio creado para visualización de reportes
 
-El sitio es una fusion de dos paquetes bastante buenos para python. Consiste en utilizar el paquete flask para la creacion de reportes o dashboard, su utilidad se basa en que no se necesita pagar mas que un servidor y una base de datos para empezar a usar (no requiere licencias). 
+El sitio es una fusión de dos paquetes bastante buenos para python. Consiste en utilizar el paquete flask para la creación de reportes o dashboard, su utilidad se basa en que no se necesita pagar más que un servidor y una base de datos para empezar a usar (no requiere licencias). 
 
 Los paquetes utilizados son:
+
 
 * Dash es un paquete que contiene un marco (framework) de Python para crear aplicaciones web analíticas. No se requiere JavaScript (lo mejor!).
 * Flask-Login proporciona administración de sesiones de usuario para Flask. Maneja las tareas comunes de iniciar sesión, cerrar sesión y recordar las sesiones de sus usuarios durante períodos de tiempo prolongados.
@@ -32,14 +33,15 @@ Entrada
 
 Vista de dashboard
 
-
+![alt text](https://github.com/salibaud/Dash/blob/master/assets/Visita.PNG)
 
 Registro de visitas
 
+![alt text](https://github.com/salibaud/Dash/blob/master/assets/Registro%20visitas.PNG)
 
-
-Ahi un dashboard que permite ver informacion detallada con un boton de descarga de los datos.
+Ahi un dashboard que permite ver información detallada con un botón de descarga de los datos.
 
 ## Mejoras:
-- En el apartado de administracion agregare la opcion para ver usuarios crear y elimina. Tambien asignar roles.
-- Agregar nuevos graficos y formato simple para creacion de paginas.
+- En el apartado de administración agregare la opción para ver usuarios crear y elimina. También asignar roles.
+- Agregar nuevos gráficos y formato simple para creación de páginas.
+- Dejar más elegante los botones de navegación de head
